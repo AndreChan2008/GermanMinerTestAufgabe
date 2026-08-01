@@ -1,0 +1,5 @@
+de\andrechan2008\damagelogSystemGM\DamagelogSystemGM.class
+de\andrechan2008\damagelogSystemGM\builder\DamagelogBuilder$HitEntry.class
+de\andrechan2008\damagelogSystemGM\builder\DamagelogBuilder.class
+de\andrechan2008\damagelogSystemGM\cmds\DamageLogCommand.class
+de\andrechan2008\damagelogSystemGM\listener\PlayerHitListener.class

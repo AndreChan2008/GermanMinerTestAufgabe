@@ -1,0 +1,9 @@
+name: DamagelogSystemGM
+version: '${version}'
+
+main: de.andrechan2008.damagelogSystemGM.DamagelogSystemGM
+api-version: '26.1.2'
+load: POSTWORLD
+
+commands:
+    damagelog:
